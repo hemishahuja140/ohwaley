@@ -1,0 +1,17 @@
+Package: ohwaley
+Title: Prints image of whale
+Version: 0.0.0.9000
+Authors@R: 
+    person("Hemish", "Ahuja", , "hemish.ahuja1@students.mq.edu.au", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: If you are feeling lonely and need a brightner of your spirits,
+  this package will deliver just that.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    magrittr
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
