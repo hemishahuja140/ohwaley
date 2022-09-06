@@ -5,7 +5,7 @@ Authors@R:
     person("Hemish", "Ahuja", , "hemish.ahuja1@students.mq.edu.au", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: If you are feeling lonely and need a brightner of your spirits,
-  this package will deliver just that.
+  this package will deliver just that. Test.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
